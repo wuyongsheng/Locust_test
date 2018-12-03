@@ -53,7 +53,11 @@ http://www.runoob.com/django/django-install.html
 
 安装完成后，使用如下命令启动，
 
-``` D:\django_restful>python3 manage.py runserver 127.0.0.1:9000  ```
+``` 
+
+D:\django_restful>python3 manage.py runserver 127.0.0.1:9000 
+
+```
 
 启动完成之后，在浏览器中输入如下地址，就可以访问api接口：
 
